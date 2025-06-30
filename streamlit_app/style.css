@@ -1,0 +1,41 @@
+/* Center the content and limit max-width for better readability */
+.reportview-container .main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+}
+
+/* Improve card formatting */
+div.stContainer {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Improve text area appearance */
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    white-space: pre-wrap;
+}
+
+/* Style sidebar */
+.css-1d391kg {
+    padding: 2rem;
+}
+
+/* Headings and links */
+h1, h2, h3, h4 {
+    color: #222;
+}
+a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
