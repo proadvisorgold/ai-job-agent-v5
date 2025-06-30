@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Director of Operations",
+    "company": "SaaSCo",
+    "location": "Remote",
+    "description": "This is a sample job post requiring leadership in finance and automation...",
+    "evaluation": {
+      "match_score": 0.2,
+      "status": "exclude",
+      "reason": "The user's resume does not mention experience in finance or automation.",
+      "summary": "Director of Operations at SaaSCo (Remote)"
+    }
+  },
+  {
+    "title": "Operations Manager",
+    "company": "CloudWare",
+    "location": "USA",
+    "description": "Looking for a hands-on operations lead with experience in SaaS and QuickBooks.",
+    "evaluation": {
+      "match_score": 0.6,
+      "status": "manual_review",
+      "reason": "The user has experience in SaaS but no specific mention of QuickBooks.",
+      "summary": "Operations Manager at CloudWare in USA"
+    }
+  }
+]

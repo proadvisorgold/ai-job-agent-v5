@@ -8,5 +8,6 @@
     "Strategy and Operations"
   ],
   "min_salary": 96000,
-  "education_filter": "associate_or_experience"
+  "education_level": "associate_or_equivalent",
+  "review_queue_limit": 10
 }
